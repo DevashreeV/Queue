@@ -27,3 +27,4 @@ Rear: Pointer element responsible for fetching the last element from the queue
 
 4.We must determine whether the queue is already full before inserting the element (enqueue), i.e., determining whether Overflow is present. We must move the element to the Rear pointer variable's location and increase the value of the Rear index by 1 if the queue is not full. We must set the value of Front to 0 before adding the first piece to the queue.
 
+![image](https://user-images.githubusercontent.com/91966097/234374922-39488900-ec29-4c14-9a8a-fcffeaaf4a79.png)
